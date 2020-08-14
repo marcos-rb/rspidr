@@ -139,7 +139,7 @@ void loop() {
   
 
   respAutoAvanca();
-  delay(50); // One second delay
+  delay(50);
 
 
 
@@ -147,7 +147,7 @@ void loop() {
     // CICLO DE RETORNO
 
   respAutoRecua();
-  delay(50); // One second delay
+  delay(50); 
 
 
 }
